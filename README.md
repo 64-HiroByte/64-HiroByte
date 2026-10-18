@@ -65,7 +65,7 @@ PressWatch は、その課題感をもとに開発しています。
 - Backend: Python / FastAPI
 - Database: PostgreSQL
 - ORM / Migration: SQLAlchemy / Alembic
-- Frontend: Next.js / TypeScript / React（実装予定）
+- Frontend: Next.js / TypeScript / React
 - Theme: 環境 × IT / 業務改善 / 情報収集支援
 
 ---
