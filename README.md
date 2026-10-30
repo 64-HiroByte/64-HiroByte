@@ -1,10 +1,6 @@
-<div align="center">
-
-# Hi, I'm Hiro 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Environmental+Domain+%C3%97+Web+Development)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I'm Hiro. Environmental Domain × Web Development" />
+</p>
 
 環境分野での実務と業務改善の経験をもとに、Webアプリケーション開発に取り組んでいます。  
 React / TypeScript / Next.js を用いたフロントエンド開発の実務経験があります。
@@ -17,24 +13,23 @@ React / TypeScript / Next.js を用いたフロントエンド開発の実務経
 
 ## 🛠️ Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,django,fastapi,postgres,js,react,ts,nextjs,html,css,tailwind,vscode,git,github,docker)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css,tailwind&amp;theme=dark" alt="TypeScript, React, Next.js, JavaScript, HTML, CSS, Tailwind CSS" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,docker,git,github,vscode&amp;theme=dark" alt="Python, Django, FastAPI, PostgreSQL, Docker, Git, GitHub, VS Code" />
+  </a>
+</p>
 
 現在は FastAPI / PostgreSQL を用いた個人開発と、Go の学習にも取り組んでいます。
 
 ---
 
-<table width=800px align=center>
-  <tr>
-  </tr>
-  <tr>
-    <td width=50%>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=64-HiroByte&theme=default">
-    </td>
-    <td width=50%>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=64-HiroByte&theme=default">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=64-HiroByte&amp;theme=tokyonight" width="100%" alt="GitHubの活動サマリー" />
+</p>
 
 ---
 
