@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I'm Hiro. Environmental Domain × Web Development" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Environmental Domain × Web Development — 化合物の構造式を使ったヘッダー" />
 </p>
 
 環境分野での実務と業務改善の経験をもとに、Webアプリケーション開発に取り組んでいます。  
@@ -15,11 +15,11 @@ React / TypeScript / Next.js を用いたフロントエンド開発の実務経
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css,tailwind&amp;theme=dark" alt="TypeScript, React, Next.js, JavaScript, HTML, CSS, Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,js,html,css,tailwind&amp;theme=dark" alt="Python, TypeScript, React, Next.js, JavaScript, HTML, CSS, Tailwind CSS" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,docker,git,github,vscode&amp;theme=dark" alt="Python, Django, FastAPI, PostgreSQL, Docker, Git, GitHub, VS Code" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,docker,git,github,vscode&amp;theme=dark" alt="Django, FastAPI, PostgreSQL, Docker, Git, GitHub, VS Code" />
   </a>
 </p>
 
@@ -103,3 +103,4 @@ Python で作成したCLIアプリです。
 使ってくれた人から「ありがとう」「楽になった」と言ってもらえた経験が、現在の開発への大きな動機になっています。
 
 今後は、環境・化学・製造業など、専門性のある現場で起きている課題を理解し、業務を支えるWebアプリケーション開発に携わっていきたいと考えています。
+
